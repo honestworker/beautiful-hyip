@@ -1,0 +1,109 @@
+form {	margin-top: 0px;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;}
+.toptable {
+	background-color: FF8D00;
+}
+
+a.toplink, a.toplink:hover, a.toplink:visited, a.toplink:active {
+	color: white;
+	text-decoration: none;
+}
+.forCopyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #EDD1D7;
+	text-align: center;
+	background-color: ff8d00;
+}
+
+body, td, .forTexts {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+a.menutxt, a.menutxt:hover, a.menutxt:visited, a.menutxt:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666699;
+}
+.menutxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+    background-color: #FF8D00;
+}
+
+.inpts {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	background-color: #FFFFF2;
+	border: 1px inset #FEE498;
+	border-color: #FF8D00;
+	border-style: solid;
+}
+.sbmt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	background-color: #FFECB0;
+	border: 1px outset #FFFFE1;
+}
+a.hlp, a.hlp:active, a.hlp:visited, a.hlp:hover { font-family: verdana; font-size: 12px; color: black; text-decoration: none; cursor: help;}
+
+.line {
+	background-color: ff8d00;
+}
+.bgcolorleft {
+	background-color: white;
+}
+.bgcolormain {
+	background-color: white;
+}
+.bgcolorright {
+	background-color: white;
+}
+div.framebody {
+	text-align: left;
+}
+td.inheader {
+	background-color: FFEA00;
+	font-weight: bold;
+	text-align: center; 
+        padding-left: 2px;
+        padding-right: 2px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+}
+td.item {
+	background-color: FFF9B3;	
+}
+h3 {
+	font-weight: bold;
+	font-size: 12px;
+}
+.calendartable {
+	background-color: ff8d00;
+	text-align: center;
+}
+.calendartablebg {
+	background-color: white;
+}
+.calendarweek {
+	background-color: ff8d00;
+	text-align: center;
+	
+}
+td.gray {
+        color: gray;
+}
