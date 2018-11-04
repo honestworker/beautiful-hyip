@@ -97,7 +97,7 @@
                     <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element">
                             <div class="wpb_wrapper">
-                                <h2>Make a Deposit.</h2>
+                                <h2>Make a Deposit:</h2>
                             </div>
                         </div>
                     </div>
