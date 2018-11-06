@@ -292,6 +292,11 @@ table {
     border-spacing: 2px;
     border-color: grey;
 }
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
 td.inheader {
     background: #c67e1f;
     font-weight: bold;
@@ -308,6 +313,13 @@ td.item {
     color: #fff;
     font-size: 13px;
 }
+td, th {
+    display: table-cell;
+    vertical-align: inherit;
+}
+tr {
+    vertical-align: inherit; 
+}
 .table-text-right {
     text-align: -webkit-right;
 }
@@ -323,7 +335,7 @@ td.item {
     transition: background 250ms ease-in-out;
 }
 .inpts {
-    font-size: 14px;
+    font-size: 16px;
     color: #fff;
     background: #0a172a;
     border: 1px solid #14315a;
