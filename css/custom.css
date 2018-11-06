@@ -349,6 +349,9 @@ tr {
     outline: none;
     transition: background 250ms ease-in-out;
 }
+table.content-alignment-left td, table th {
+    text-align: left;
+}
 .inpts {
     font-size: 16px;
     color: #fff;

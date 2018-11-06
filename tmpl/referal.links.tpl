@@ -12,7 +12,6 @@
                         <div class="wpb_text_column wpb_content_element">
                             <div class="wpb_wrapper">
                                 <h2>Referral Links.</h2>
-                                </a>
                             </div>
                         </div>
                     </div>
