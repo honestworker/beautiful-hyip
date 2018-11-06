@@ -92,7 +92,7 @@
                                     {section name=trans loop=$trans}
                                 <tr>
                                     <td class="table-text-center" nowrap="">{$trans[trans].d}</td>
-                                    <td><b>{$trans[trans].transtype}</b><br><small class=gray>{$trans[trans].description}</small></td>
+                                    <td><b>{$trans[trans].transtype}</b><br><small style="color: gray">{$trans[trans].description}</small></td>
                                     <td class="table-text-right"><b>
                                         {if $trans[trans].debitcredit == 0}
                                         {$currency_sign}{$trans[trans].actual_amount}
@@ -153,7 +153,7 @@
                                     <td class="table-text-center" width="170" valign=bottom><b><small>{$trans[trans].d}</small></b></td>
                                 </tr>
                                 <tr>
-                                    <td colspan=3 class=gray><small>{$trans[trans].description}</small></td>
+                                    <td colspan=3 style="color: gray"><small>{$trans[trans].description}</small></td>
                                 </tr>
                                     {/section}
                                 {else}

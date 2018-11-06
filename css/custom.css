@@ -287,10 +287,17 @@ table {
     border-right-width: 0px;
     border-bottom-width: 0px;
     border-left-width: 0px;
-    width: 100%;display: table;
+    width: 100%;
+    display: table;
     border-collapse: separate;
     border-spacing: 2px;
     border-color: grey;
+}
+.table-no-style {
+    width: auto;
+}
+table.table-no-style tbody th {
+    border-right: 1px;
 }
 tbody {
     display: table-row-group;
