@@ -28,7 +28,7 @@ function checkform() {
                     </div>
                     <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
                     {if $frm.say eq 'invalid_login'}
-                        <h3>Login error:</h3><br>
+                        <h3>Login error:</h3>
                         <p>Your login or password or turing image code is wrong. Please check this information.</p>
                     {/if}
                     <div class="screen-reader-response"></div>
