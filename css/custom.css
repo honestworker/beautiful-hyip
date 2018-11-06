@@ -1,3 +1,11 @@
+body {
+    font-family: Roboto,serif;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400;
+    overflow-x: hidden!important;
+    -webkit-font-smoothing: antialiased;
+}
 .widget_custom input[class=disable-input] {
     height: 42px;
     line-height: 42px;
