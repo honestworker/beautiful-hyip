@@ -1,17 +1,3 @@
-.widget_custom input[type=text], select {
-    height: 42px;
-    line-height: 42px;
-    border: 1px solid #e8e8e8;
-    padding: 0 17px;
-    outline: 0;
-    font-family: inherit;
-    width: 80%;
-    margin-right: 2%;
-    background-color: #fff;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box; 
-}
 .widget_custom input[class=disable-input] {
     height: 42px;
     line-height: 42px;
@@ -327,6 +313,9 @@ td.item {
 }
 .table-text-left {
     text-align: -webkit-left;
+}
+.table-text-center {
+    text-align: -webkit-center;
 }
 .table-text-a {
     color: #2b80c9;

@@ -32,7 +32,7 @@
                                         <table cellspacing=1 cellpadding=2 border=0 width=100%>
                                             <tbody>
                                                 <tr>
-                                                    <td colspan=3 align=center><b>{$p.name}</b></td>
+                                                    <td colspan=3 class="table-text-center"><b>{$p.name}</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td class="inheader">Plan</td>
@@ -44,8 +44,8 @@
                                                 {foreach from=$p.plans item=o}
                                                 <tr>
                                                     <td class="item">{$o.name}</td>
-                                                    <td class="item" align="right">{$o.deposit}</td>
-                                                    <td class="item" align="right">{$o.percent}</td>
+                                                    <td class="item" class="table-text-right">{$o.deposit}</td>
+                                                    <td class="item" class="table-text-right">{$o.percent}</td>
                                                 </tr>
                                                 {/foreach}
                                             </tbody>

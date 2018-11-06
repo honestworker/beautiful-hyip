@@ -160,8 +160,8 @@
                                     {section name=options loop=$plans[plans].plans}
                                     <tr>
                                         <td class="item">{$plans[plans].plans[options].name|escape:html}</td>
-                                        <td class="item" align="right">{$plans[plans].plans[options].deposit}</td>
-                                        <td class="item" align="right">{$plans[plans].plans[options].percent}</td>
+                                        <td class="item" class="table-text-right">{$plans[plans].plans[options].deposit}</td>
+                                        <td class="item" class="table-text-right">{$plans[plans].plans[options].percent}</td>
                                     </tr>
                                     {/section}
                                     {if $settings.enable_calculator}
@@ -234,7 +234,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td colspan="2" align="center">
+                                                <td colspan="2"  class="table-text-center">
                                                     <input type="submit" value="Spend" class="sbmt">
                                                 </td>
                                             </tr>
