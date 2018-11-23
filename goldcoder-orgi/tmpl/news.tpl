@@ -1,6 +1,5 @@
 {include file="header.tpl"}
 
-
 <h3>News</h3><br>
 
 <table cellspacing=1 cellpadding=2 border=0 width=100%>

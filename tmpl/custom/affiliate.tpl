@@ -283,7 +283,7 @@
                 </div>
             </div>
             <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-        </div>        
+        </div>
         <div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section vc_custom_1447929125508 mkd-content-aligment-center mkd-grid-section" style="">
             <div class="clearfix mkd-section-inner">
                 <div class="mkd-section-inner-margin clearfix">
@@ -332,10 +332,83 @@
                                     <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
                                 </div>
                             </div>
+                            <div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_inner vc_row-fluid mkd-section mkd-content-aligment-left" style="">
+                                <div class="career-table">
+                                    <div class="career-table-row career-table-header">
+                                        <div class="career-table-col-c1 career-table-col">Country</div>
+                                        <div class="career-table-col-c2 career-table-col">Regional Representative</div>
+                                        <div class="career-table-col-c1 career-table-col">Language</div>
+                                        <div class="career-table-col-c5 career-table-col">Contact Information</div>
+                                    </div>
+                                    <div class="career-table-row">
+                                        <div class="career-table-col-c1 career-table-col">
+                                            <div class="rewards">
+                                                <div class="reward">
+                                                    USA
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="career-table-col-c2 career-table-col">
+                                            <div class="rewards">
+                                                <div class="reward">
+                                                    Alexander Kholodov
+                                                    <a href="http://usd-trade.com" class="aff-arrow"></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="career-table-col-c1 career-table-col">
+                                            <div class="rewards">
+                                                <div class="reward">
+                                                    EN
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="career-table-col-c5 career-table-col">
+                                            <div class="rewards">
+                                                <div class="reward">
+                                                    Skype: Alexander Kholodov E-mail: <a href="support@usd-trade.com">support@usd-trade.com</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="career-table-row">
+                                        <div class="career-table-col-c1 career-table-col">
+                                            <div class="rewards">
+                                                <div class="reward">
+                                                    UK
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="career-table-col-c2 career-table-col">
+                                            <div class="rewards">
+                                                <div class="reward">
+                                                    Benjamin Jacobson
+                                                    <a href="http://usd-trade.com" class="aff-arrow"></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="career-table-col-c1 career-table-col">
+                                            <div class="rewards">
+                                                <div class="reward">
+                                                    EN
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="career-table-col-c5 career-table-col">
+                                            <div class="rewards">
+                                                <div class="reward">
+                                                    Skype: Benjamin Jacobson E-mail: <a href="support@usd-trade.com">support@usd-trade.com</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
         </div>
     </div>
 </div>

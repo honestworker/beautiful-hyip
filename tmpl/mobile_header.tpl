@@ -42,8 +42,6 @@
                     </li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="{"?a=faq"|encurl}" class=""><span>Faq</span></a><span class="mobile_arrow"><i class="mkd-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
                     </li>
-					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="{"?a=affiliate"|encurl}" class=""><span>Affiliate</span></a><span class="mobile_arrow"><i class="mkd-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
-                    </li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="{"?a=news"|encurl}" class=""><span>News</span></a><span class="mobile_arrow"><i class="mkd-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
                     </li>
 					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="{"?a=reviews_share"|encurl}" class=""><span>Reviews and Share</span></a><span class="mobile_arrow"><i class="mkd-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
@@ -55,9 +53,15 @@
                         	<li class="menu-item menu-item-type-post_type menu-item-object-page "><a href="{"?a=terms_condition"|encurl}" class=""><span>Terms And Condition</span></a></li>
                         	<li class="menu-item menu-item-type-post_type menu-item-object-page "><a href="{"?a=rate_us"|encurl}" class=""><span>Rate Us</span></a></li>
                         	<li class="menu-item menu-item-type-post_type menu-item-object-page "><a href="{"?a=management_team"|encurl}" class=""><span>Management Team</span></a></li>
-                        	<li class="menu-item menu-item-type-post_type menu-item-object-page "><a href="{"?a=support"|encurl}" class=""><span>Support</span></a></li>
+                        	<li class="menu-item menu-item-type-post_type menu-item-object-page "><a href="{"?a=affiliate"|encurl}" class=""><span>Affiliate</span></a></li>
                         </ul>
 					</li>
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="{"?a=support"|encurl}" class=""><span>Support</span></a><span class="mobile_arrow"><i class="mkd-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+                    </li>
+					{if $userinfo.logged == 1}
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="{"?a=account"|encurl}" class=""><span>Account</span></a><span class="mobile_arrow"><i class="mkd-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+                    </li>
+                    {/if}
                     {if $userinfo.logged != 1}
 					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="{"?a=signup"|encurl}" class=""><span>Sign up</span></a><span class="mobile_arrow"><i class="mkd-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
                     </li>

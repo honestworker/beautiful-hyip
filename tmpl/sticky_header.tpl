@@ -45,17 +45,6 @@
                                     </a>
                                 </li>
                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide">
-                                    <a href="{"?a=affiliate"|encurl}" class="">
-                                        <span class="item_outer">
-                                            <span class="item_inner">
-                                                <span class="menu_icon_wrapper"><i class="menu_icon null fa"></i></span>
-                                                <span class="item_text">Affiliate</span></span><span class="plus"></span>
-                                            </span>
-                                            <span class="bottom-border"><span class="bottom-border-inner"></span>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide">
                                     <a href="{"?a=news"|encurl}" class="">
                                         <span class="item_outer">
                                             <span class="item_inner">
@@ -94,11 +83,35 @@
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{"?a=terms_condition"|encurl}" class=""><span class="item_outer"><span class="item_inner"><span class="menu_icon_wrapper"><i class="menu_icon icon-key fa"></i></span><span class="item_text">Terms And Condition</span></span><span class="plus"></span></span><span class="bottom-border"><span class="bottom-border-inner"></span></span></a></li>
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{"?a=rate_us"|encurl}" class=""><span class="item_outer"><span class="item_inner"><span class="menu_icon_wrapper"><i class="menu_icon icon-compass fa"></i></span><span class="item_text">Rate Us</span></span><span class="plus"></span></span><span class="bottom-border"><span class="bottom-border-inner"></span></span></a></li>
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{"?a=management_team"|encurl}" class=""><span class="item_outer"><span class="item_inner"><span class="menu_icon_wrapper"><i class="menu_icon icon-people fa"></i></span><span class="item_text">Management Team</span></span><span class="plus"></span></span><span class="bottom-border"><span class="bottom-border-inner"></span></span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{"?a=support"|encurl}" class=""><span class="item_outer"><span class="item_inner"><span class="menu_icon_wrapper"><i class="menu_icon icon-pin fa"></i></span><span class="item_text">Support</span></span><span class="plus"></span></span><span class="bottom-border"><span class="bottom-border-inner"></span></span></a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{"?a=affiliate"|encurl}" class=""><span class="item_outer"><span class="item_inner"><span class="menu_icon_wrapper"><i class="menu_icon icon-pin fa"></i></span><span class="item_text">Affiliate</span></span><span class="plus"></span></span><span class="bottom-border"><span class="bottom-border-inner"></span></span></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                 </li>
+                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide">
+                                    <a href="{"?a=support"|encurl}" class="">
+                                        <span class="item_outer">
+                                            <span class="item_inner">
+                                                <span class="menu_icon_wrapper"><i class="menu_icon null fa"></i></span>
+                                                <span class="item_text">Support</span></span><span class="plus"></span>
+                                            </span>
+                                            <span class="bottom-border"><span class="bottom-border-inner"></span>
+                                        </span>
+                                    </a>
+                                </li>
+                                {if $userinfo.logged == 1}
+                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide">
+                                    <a href="{"?a=account"|encurl}" class="">
+                                        <span class="item_outer">
+                                            <span class="item_inner">
+                                                <span class="menu_icon_wrapper"><i class="menu_icon null fa"></i></span>
+                                                <span class="item_text">Account</span></span><span class="plus"></span>
+                                            </span>
+                                            <span class="bottom-border"><span class="bottom-border-inner"></span>
+                                        </span>
+                                    </a>
+                                </li>
+                                {/if}
                                 {if $userinfo.logged != 1}
                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide">
                                     <a href="{"?a=signup"|encurl}" class="">

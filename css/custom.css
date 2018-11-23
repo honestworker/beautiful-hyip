@@ -55,6 +55,14 @@ body {
 .affiliate-additional span:nth-child(3) {
     background: #8674d0;
 }
+.aff-arrow {
+    float: left;
+    width: 22px;
+    height: 16px;
+    margin: 2px 0px 0px 30px;
+    padding: 0px 0px 0px 0px;
+    background: url(../images/ratio/aff-arrow.png) 0px 0px no-repeat;
+}
 /** Table ***/
 .career-table {
     text-align: center;
@@ -104,7 +112,6 @@ body {
     font-weight: 300;
     font-size: 25px;
 }
-
 .career-small-table {
     text-align: center;
     letter-spacing: 1px;
@@ -139,6 +146,31 @@ body {
 .career-small-table-row {
     padding: 10px 0;
     border-bottom: 1px solid #c18f59;
+}
+
+.career-table-col-c1 {
+    width: 10%;
+}
+.career-table-col-c2 {
+    width: 20%;
+}
+.career-table-col-c3 {
+    width: 30%;
+}
+.career-table-col-c4 {
+    width: 40%;
+}
+.career-table-col-c5 {
+    width: 50%;
+}
+.career-table-col-c6 {
+    width: 60%;
+}
+.career-table-col-c7 {
+    width: 70%;
+}
+.career-table-col-c8 {
+    width: 80%;
 }
 /********** News **********/
 .news-icon {

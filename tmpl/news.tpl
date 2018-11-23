@@ -18,8 +18,6 @@
         </div>
     </div>
 </div>
-
-
 <div class="mkd-full-width">
     <div class="mkd-full-width-inner">
         <div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section mkd-content-aligment-center mkd-grid-section" style="">
