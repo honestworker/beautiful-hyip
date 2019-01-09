@@ -1,10 +1,10 @@
 {include file="header.tpl"}
-<div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section vc_custom_1447839811894 mkd-content-aligment-left mkd-grid-section" style="padding-top: 20px">
+<div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section vc_custom_1447839811894 mkd-content-aligment-left mkd-grid-section" style="padding-top: 20px; background-image: url(../images/custom/bitcoin-white.jpg); background-size: cover; background-repeat: no-repeat;">
     <div class="clearfix mkd-section-inner">
         <div class="mkd-section-inner-margin clearfix">
             <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-4 vc_col-md-4 vc_col-lg-offset-4 vc_col-md-4">
                 <div class="wpb_wrapper">
-                    <div class="wpb_text_column wpb_content_element ">
+                    <div class="wpb_text_column wpb_content_element">
                         <div class="wpb_wrapper">
                             <h2>Registration at {$settings.site_name}:</h2>
                         </div>
@@ -157,70 +157,70 @@
                             <ul style="color:red">
                             {section name=e loop=$errors} 
                                 {if $errors[e] eq 'full_name'}
-                                    <li>Please enter your full name!
+                                    <li>Please enter your full name!</li>
                                 {/if}
                                 {if $errors[e] eq 'address'}
-                                    <li>Please enter your address!
+                                    <li>Please enter your address!</li>
                                 {/if}
                                 {if $errors[e] eq 'city'}
-                                    <li>Please enter your city!
+                                    <li>Please enter your city!</li>
                                 {/if}
                                 {if $errors[e] eq 'state'}
-                                    <li>Please enter your state!
+                                    <li>Please enter your state!</li>
                                 {/if}
                                 {if $errors[e] eq 'zip'}
-                                    <li>Please enter your zip!
+                                    <li>Please enter your zip!</li>
                                 {/if}
                                 {if $errors[e] eq 'country'}
-                                    <li>Please choose your country!
+                                    <li>Please choose your country!</li>
                                 {/if}
                                 {if $errors[e] eq 'username'}
-                                    <li>Please enter valid username! It should contains English letters and digits only.
+                                    <li>Please enter valid username! It should contains English letters and digits only.</li>
                                 {/if}
                                 {if $errors[e] eq 'username_exists'}
-                                    <li>Sorry, such user already exists! Please try another username. 
+                                    <li>Sorry, such user already exists! Please try another username. </li>
                                 {/if}
                                 {if $errors[e] eq 'email_exists'}
-                                    <li>Sorry, such email already exists! Please try another email. 
+                                    <li>Sorry, such email already exists! Please try another email. </li>
                                 {/if} 
                                 {if $errors[e] eq 'password'} 
-                                    <li>Please enter a password!
+                                    <li>Please enter a password!</li>
                                 {/if}
                                 {if $errors[e] eq 'password_confirm'}
-                                    <li>Please check your password!
+                                    <li>Please check your password!</li>
                                 {/if}
                                 {if $errors[e] eq 'password_too_small'}
-                                    <li>The password you provided is too small, please enter at least {$settings.min_user_password_length} characters!
+                                    <li>The password you provided is too small, please enter at least {$settings.min_user_password_length} characters!</li>
                                 {/if} 
                                 {if $errors[e] eq 'transaction_code'} 
-                                    <li>Please enter the Transaction Code!
+                                    <li>Please enter the Transaction Code!</li>
                                 {/if} 
                                 {if $errors[e] eq 'transaction_code_confirm'} 
-                                    <li>Please check your Transaction Code!
+                                    <li>Please check your Transaction Code!</li>
                                 {/if}
                                 {if $errors[e] eq 'transaction_code_too_small'}
-                                    <li>The Transaction Code you provided is too small, please enter at least {$settings.min_user_password_length} characters!
+                                    <li>The Transaction Code you provided is too small, please enter at least {$settings.min_user_password_length} characters!</li>
                                 {/if}
                                 {if $errors[e] eq 'transaction_code_vs_password'} 
-                                    <li>The Transaction Code should differ from the Password!
+                                    <li>The Transaction Code should differ from the Password!</li>
                                 {/if}
                                 {if $errors[e] eq 'email'} 
-                                    <li>Please enter your e-mail!
+                                    <li>Please enter your e-mail!</li>
                                 {/if}
                                 {if $errors[e] eq 'email2'} 
-                                    <li>Please check your email!
+                                    <li>Please check your email!</li>
                                 {/if}
                                 {if $errors[e] eq 'agree'}
-                                    <li>You have to agree with the Terms and Conditions!
+                                    <li>You have to agree with the Terms and Conditions!</li>
                                 {/if}
                                 {if $errors[e] eq 'turing_image'}
-                                    <li>Enter the verification code as it is shown in the corresponding box.
+                                    <li>Enter the verification code as it is shown in the corresponding box.</li>
                                 {/if} 
                                 {if $errors[e] eq 'no_upline'}
-                                    <li>The system requires an upline to register. {if $settings.get_rand_ref}You have to be agreed to random one or found a referral link in the net.{/if}
+                                    <li>The system requires an upline to register. {if $settings.get_rand_ref}You have to be agreed to random one or found a referral link in the net.{/if}</li>
                                 {/if} 
                                 {if $errors[e] eq 'ip_exists_in_database'}
-                                    <li>Your IP already exists in our database. Sorry, but registration impossible.
+                                    <li>Your IP already exists in our database. Sorry, but registration impossible.</li>
                                 {/if}
 
                                 {if $errors[e] eq 'invalid_account_format'}
@@ -260,7 +260,7 @@
                             <p><span class="wpcf7-form-control-wrap transaction_code2">Retype Transaction Code:<input type="password" name="transaction_code2" value="{$frm.transaction_code2|escape:"quotes"}" size="40" class="inpts wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span></p>
                             {/if}
                             {foreach from=$pay_accounts item=ps}
-                            <p><span class="wpcf7-form-control-wrap account">Your {$ps.name} Account:<<input type="text" name="pay_account[{$ps.id}]" value="{$ps.account|escape:html}" aria-required="true"  data-validate="{$ps.validate.func}" data-validate-{$ps.validate.func}="{$ps.validate[$ps.validate.func]}" data-validate-notice="{$ps.validate.notification|escape:html}" placeholder="{$ps.validate.placeholder|escape:html}"" size="40" class="inpts wpcf7-form-control wpcf7-text wpcf7-validates-as-required"></span></p>
+                            <p><span class="wpcf7-form-control-wrap account">Your {$ps.name} Account:<input type="text" name="pay_account[{$ps.id}]" value="{$ps.account|escape:html}" aria-required="true"  data-validate="{$ps.validate.func}" data-validate-{$ps.validate.func}="{$ps.validate[$ps.validate.func]}" data-validate-notice="{$ps.validate.notification|escape:html}" placeholder="{$ps.validate.placeholder|escape:html}"" size="40" class="inpts wpcf7-form-control wpcf7-text wpcf7-validates-as-required"></span></p>
                             {/foreach}
                             {foreach item=p from=$mpay_accounts}
                             {foreach item=ps from=$p.accounts}

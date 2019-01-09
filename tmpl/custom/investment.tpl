@@ -12,7 +12,7 @@
                                 <span style="border-style: solid;border-width: 1px;border-color: #c18f59" class="mkd-background"></span>
                             </span>
                         </div>
-                        <h1 style="color:#ffffff;font-size:37px;"><span>Our Inverstment Plans</span></h1>
+                        <h1 style="color:#ffffff;font-size:37px;"><span>Our Investment Plans</span></h1>
                         <span class="mkd-subtitle"><span>These plans give you an opportunity to increase your profit every calendar day. Your earnings are calculated daily and can be withdrawn daily. The principal deposit will not be returned because it is include in the daily profits.</span></span>
                     </div>
                 </div>

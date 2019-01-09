@@ -18,7 +18,7 @@ function checkform() {
 </script>
 {/literal}
 
-<div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section vc_custom_1447839811894 mkd-content-aligment-left mkd-grid-section" style="padding-top: 20px">
+<div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section vc_custom_1447839811894 mkd-content-aligment-left mkd-grid-section" style="padding-top: 20px; background-image: url(../images/custom/bitcoin-white.jpg);">
     <div class="clearfix mkd-section-inner">
         <div class="mkd-section-inner-margin clearfix">
             <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-4 vc_col-md-4 vc_col-lg-offset-4 vc_col-md-4">

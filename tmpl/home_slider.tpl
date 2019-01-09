@@ -1744,13 +1744,12 @@
 				</div>
 			</div>
 		</div>
-		<div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section vc_custom_1450194795605 mkd-content-aligment-center mkd-grid-section" style="">
-			<div class="mkd-row-triangle mkd-row-triangle-top mkd-triangle-bkg" style="border-color:#353c4e;"></div>
-			<div class="clearfix mkd-section-inner">
+        <div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section vc_custom_1450195972481 mkd-content-aligment-center mkd-grid-section" style="">
+            <div class="clearfix mkd-section-inner">
 				<div class="mkd-section-inner-margin clearfix">
 					<div class="wpb_column vc_column_container vc_col-sm-12">
 						<div class="wpb_wrapper">
-							<div class="mkd-separator-holder clearfix  mkd-separator-center mkd-separator-with-icon mkd-animate" style="margin-top: 20px; margin-bottom: 30px">
+							<div class="mkd-separator-holder clearfix  mkd-separator-center mkd-separator-with-icon mkd-animate" style="margin-top: 20px; margin-bottom: 25px">
 								<div class="mkd-separator" style="border-color: #c18f59;border-style: solid;width: 97.5px"></div>
 								<div class="mkd-separator-icon">
 									<img width="34" height="23" src="http://libero.mikado-themes.com/wp-content/uploads/2015/11/h1-separator-custom-icon-1.png" class="attachment-full" alt="a" /> </div>
@@ -1759,178 +1758,413 @@
 							<div class="wpb_text_column wpb_content_element ">
 								<div class="wpb_wrapper">
 									<h1>
-										<span style="color: #c18f59;">Toughest Defense Lawyers</span> with Best Results</h1>
+										<span style="color: #c18f59;">Our Investment Plans</span></h1>
 								</div>
 							</div>
-							<div class="vc_empty_space" style="height: 23px">
+							<div class="vc_empty_space" style="height: 27px">
 								<span class="vc_empty_space_inner"></span>
 							</div>
 
 							<div class="wpb_text_column wpb_content_element ">
 								<div class="wpb_wrapper">
-									<h3>Our lawyers will also represent you in civil litigation cases such as divorce, child and spouse maintenance.</h3>
+									<h3>These plans give you an opportunity to increase your profit every calendar day. Your earnings are calculated daily and can be withdrawn daily. The principal deposit will not be returned because it is include in the daily profits.</h3>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-		<div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section vc_custom_1450197418142 mkd-content-aligment-center mkd-grid-section" style="">
+        </div>
+        <div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section mkd-content-aligment-left mkd-grid-section" style="">
+            <div class="clearfix mkd-section-inner">
+                <div class="mkd-section-inner-margin clearfix">
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-4 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+                        <div class="wpb_wrapper">
+                            <div class="mkd-service-table mkd-service-has-icon">
+                                <div class="mkd-service-table-icon">
+                                    <span class="mkd-icon-shortcode circle mkd-icon-small">
+                                        <i class="mkd-icon-simple-line-icon icon-people mkd-icon-element" style="" ></i>
+                                        <span  class="mkd-background"></span>
+                                    </span>
+                                </div>
+                                <div class="mkd-service-table-inner">
+                                    <div class="mkd-service-titles-holder">
+                                        <h4>Trial</h4>
+                                    </div>
+                                    <div class="mkd-service-table-content">
+                                        <ul>
+                                            <li>MIN:MAX - $30 : $99 </li>
+                                            <li>120% After 1 Hour</li>
+                                            <li>Payment Instant</li>
+                                            <li>Principal included</li>
+                                        </ul>
+                                    </div>
+                                    <div class="mkd-service-link">
+                                        <a href="{$settings.site_url}/our-services/" target="_self">
+                                            <span>Invest Now</span>
+                                            <span class="mkd-service-link-icon arrow_carrot-right_alt2"></span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                        </div>
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-4 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+                        <div class="wpb_wrapper">
+                            <div class="mkd-service-table mkd-service-has-icon">
+                                <div class="mkd-service-table-icon">
+                                    <span class="mkd-icon-shortcode circle mkd-icon-small">
+                                        <i class="mkd-icon-simple-line-icon icon-folder-alt mkd-icon-element" style="" ></i>
+                                        <span  class="mkd-background"></span>
+                                    </span>
+                                </div>
+                                <div class="mkd-service-table-inner">
+                                    <div class="mkd-service-titles-holder">
+                                        <h4>Basic</h4>
+                                    </div>
+                                    <div class="mkd-service-table-content">
+                                        <ul>
+                                            <li>MIN:MAX - $100 : $299 </li>
+                                            <li>140% After 1 Hour</li>
+                                            <li>Payment Instant</li>
+                                            <li>Principal included</li>
+                                        </ul>
+                                    </div>
+                                    <div class="mkd-service-link">
+                                        <a href="{$settings.site_url}/our-services/" target="_self">
+                                            <span>Invest Now</span>
+                                            <span class="mkd-service-link-icon arrow_carrot-right_alt2"></span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                        </div>
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-4 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+                        <div class="wpb_wrapper">
+                            <div class="mkd-service-table mkd-service-has-icon">
+                                <div class="mkd-service-table-icon">
+                                    <span class="mkd-icon-shortcode circle mkd-icon-small">
+                                        <i class="mkd-icon-simple-line-icon icon-badge mkd-icon-element" style="" ></i>
+                                        <span  class="mkd-background"></span>
+                                    </span>
+                                </div>
+                                <div class="mkd-service-table-inner">
+                                    <div class="mkd-service-titles-holder">
+                                        <h4>Standard</h4>
+                                    </div>
+                                    <div class="mkd-service-table-content">
+                                        <ul>
+                                            <li>MIN:MAX - $300 : $499 </li>
+                                            <li>170% After 1 Hour</li>
+                                            <li>Payment Instant</li>
+                                            <li>Principal included</li>
+                                        </ul>
+                                    </div>
+                                    <div class="mkd-service-link">
+                                        <a href="{$settings.site_url}/our-services/" target="_self">
+                                            <span>Invest Now</span>
+                                            <span class="mkd-service-link-icon arrow_carrot-right_alt2"></span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                        </div>
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-4 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+                        <div class="wpb_wrapper">
+                            <div class="mkd-service-table mkd-service-has-icon">
+                                <div class="mkd-service-table-icon">
+                                    <span class="mkd-icon-shortcode circle mkd-icon-small">
+                                        <i class="mkd-icon-simple-line-icon icon-layers mkd-icon-element" style="" ></i>
+                                        <span  class="mkd-background"></span>
+                                    </span>
+                                </div>
+                                <div class="mkd-service-table-inner">
+                                    <div class="mkd-service-titles-holder">
+                                        <h4>Advanced</h4>
+                                    </div>
+                                    <div class="mkd-service-table-content">
+                                        <ul>
+                                            <li>MIN:MAX - $500 : $999 </li>
+                                            <li>180% After 1 Hour</li>
+                                            <li>Payment Instant</li>
+                                            <li>Principal included</li>
+                                        </ul>
+                                    </div>
+                                    <div class="mkd-service-link">
+                                        <a href="{$settings.site_url}/our-services/" target="_self">
+                                            <span>Invest Now</span>
+                                            <span class="mkd-service-link-icon arrow_carrot-right_alt2"></span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                        </div>
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-4 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+                        <div class="wpb_wrapper">
+                            <div class="mkd-service-table mkd-service-has-icon">
+                                <div class="mkd-service-table-icon">
+                                    <span class="mkd-icon-shortcode circle mkd-icon-small">
+                                        <i class="mkd-icon-simple-line-icon icon-graduation mkd-icon-element" style="" ></i>
+                                        <span  class="mkd-background"></span>
+                                    </span>
+                                </div>
+                                <div class="mkd-service-table-inner">
+                                    <div class="mkd-service-titles-holder">
+                                        <h4>Exclusive</h4>
+                                    </div>
+                                    <div class="mkd-service-table-content">
+                                        <ul>
+                                            <li>MIN:MAX - $1000 : $9999 </li>
+                                            <li>200% After 1 Hour</li>
+                                            <li>Payment Instant</li>
+                                            <li>Principal included</li>
+                                        </ul>
+                                    </div>
+                                    <div class="mkd-service-link">
+                                        <a href="{$settings.site_url}/our-services/" target="_self">
+                                            <span>Invest Now</span>
+                                            <span class="mkd-service-link-icon arrow_carrot-right_alt2"></span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                        </div>
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-4 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+                        <div class="wpb_wrapper">
+                            <div class="mkd-service-table mkd-service-has-icon">
+                                <div class="mkd-service-table-icon">
+                                    <span class="mkd-icon-shortcode circle mkd-icon-small">
+                                        <i class="mkd-icon-simple-line-icon icon-trophy mkd-icon-element" style="" ></i>
+                                        <span  class="mkd-background"></span>
+                                    </span>
+                                </div>
+                                <div class="mkd-service-table-inner">
+                                    <div class="mkd-service-titles-holder">
+                                        <h4>VIP</h4>
+                                    </div>
+                                    <div class="mkd-service-table-content">
+                                        <ul>
+                                            <li>MIN:MAX - $2000 : $5000 </li>
+                                            <li>300% After 1 Hour</li>
+                                            <li>Payment Instant</li>
+                                            <li>Principal included</li>
+                                        </ul>
+                                    </div>
+                                    <div class="mkd-service-link">
+                                        <a href="{$settings.site_url}/our-services/" target="_self">
+                                            <span>Invest Now</span>
+                                            <span class="mkd-service-link-icon arrow_carrot-right_alt2"></span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {* <div class="clearfix mkd-section-inner">
+                <div class="mkd-section-inner-margin clearfix">
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+                        <div class="widget widget_custom">
+                            <h4>Enter deposit</h4>
+                            <input id="deposit" name="deposit" placeholder="" type="text" value="" aria-required="true">
+                        </div>
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+                        <div class="widget widget_custom">
+                            <h4>Select Plan</h4>
+                            <select id="plan" name="plan" placeholder="" type="text" value="" aria-required="true">
+                                <option id="trial" value="trial">Trial</option>
+                                <option id="basic" value="basic">Basic</option>
+                                <option id="stanard" value="stanard">Standard</option>
+                                <option id="advanced" value="advanced">Advanced</option>
+                                <option id="exclusive" value="exclusive">Exclusive</option>
+                                <option id="vip" value="vip">Vip</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+                        <div class="widget widget_custom">
+                            <h4>Total Profit</h4>
+                            <input class="disable-input" id="profit" name="profit" placeholder="" type="text" value="" aria-required="true" disabled>
+                        </div>
+                    </div>
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+                        <div class="widget widget_custom">
+                            <h4>Total Refund</h4>
+                            <input class="disable-input" id="refund" name="refund" placeholder="" type="text" value="" aria-required="true" disabled>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+            *}
+        </div>
+		<div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section mkd-content-aligment-center mkd-grid-section mkd-video-background" style="">
 			<div class="clearfix mkd-section-inner">
-				<div class="mkd-section-inner-margin clearfix">
-					<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6">
-						<div class="wpb_wrapper">
-							<div class="mkd-service-table mkd-service-has-icon">
-								<div class="mkd-service-table-icon">
-									<span class="mkd-icon-shortcode circle mkd-icon-small">
-										<i class="mkd-icon-simple-line-icon icon-trophy mkd-icon-element" style=""></i>
-										<span class="mkd-background"></span>
-									</span>
-								</div>
-								<div class="mkd-service-table-inner">
-									<div class="mkd-service-titles-holder">
-										<h4>Immigration Law</h4>
-										<h5>what we are best at</h5>
-									</div>
-									<div class="mkd-service-table-content">
-										<ul>
-											<li>Criminal Defense</li>
-											<li>Family Disputes</li>
-											<li>Broker Fraud</li>
-											<li>Domestic Violence</li>
-											<li>Medical Malpractice</li>
-											<li>Intellectual Property</li>
-										</ul>
-									</div>
-									<div class="mkd-service-link">
-										<a href="http://libero.mikado-themes.com/our-services/" target="_self">
-											<span> See success rates </span>
-
-											<span class="mkd-service-link-icon arrow_carrot-right_alt2"></span>
-										</a>
-									</div>
-								</div>
-							</div>
-							<div class="vc_empty_space" style="height: 40px">
-								<span class="vc_empty_space_inner"></span>
+                <div class="mkd-section-inner-margin clearfix">
+					<div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-0 vc_col-md-3 vc_col-sm-offset-0">
+                        <div class="wpb_wrapper">
+                            <div class="mkd-service-table mkd-service-has-icon">
+                                <div class="mkd-service-table-inner">
+                                    <div class="mkd-service-table-content">
+                                        <ul>
+                                            <li style="background-color: lightgrey;"><span class="mkd-counter zero" style="font-size: 24px;color: #353c4e;font-weight: 700">{$settings.info_box_total_accounts_generated}</span></li>
+                                            <li style="background-color: lightgrey;"><span style="font-size: 18px;color: #353c4e;font-weight: 600">Total Members</span></li>
+                                        </ul>
+                                    </div>
+                                </div>
 							</div>
 						</div>
 					</div>
-					<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6">
-						<div class="wpb_wrapper">
-							<div class="mkd-service-table mkd-service-has-icon">
-								<div class="mkd-service-table-icon">
-									<span class="mkd-icon-shortcode circle mkd-icon-small">
-										<i class="mkd-icon-simple-line-icon icon-graduation mkd-icon-element" style=""></i>
-										<span class="mkd-background"></span>
-									</span>
-								</div>
-								<div class="mkd-service-table-inner">
-									<div class="mkd-service-titles-holder">
-										<h4>Banking &amp; Finance</h4>
-										<h5>outstanding service</h5>
-									</div>
-									<div class="mkd-service-table-content">
-										<ul>
-											<li>Criminal Defense</li>
-											<li>Family Disputes</li>
-											<li>Broker Fraud</li>
-											<li>Domestic Violence</li>
-											<li>Medical Malpractice</li>
-											<li>Intellectual Property</li>
-										</ul>
-									</div>
-									<div class="mkd-service-link">
-										<a href="http://libero.mikado-themes.com/our-services/" target="_self">
-											<span> See success rates </span>
-											<span class="mkd-service-link-icon arrow_carrot-right_alt2"></span>
-										</a>
-									</div>
-								</div>
-							</div>
-							<div class="vc_empty_space" style="height: 40px">
-								<span class="vc_empty_space_inner"></span>
+					<div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-0 vc_col-md-3 vc_col-sm-offset-0">
+                        <div class="wpb_wrapper">
+                            <div class="mkd-service-table mkd-service-has-icon">
+                                <div class="mkd-service-table-inner">
+                                    <div class="mkd-service-table-content">
+                                        <ul>
+                                            <li style="background-color: lightgrey;">
+												<span class="mkd-counter-currency" style="font-size: 24px;color: #353c4e;font-weight: 700">{$currency_sign}</span>
+												<span class="mkd-counter zero" style="font-size: 24px;color: #353c4e;font-weight: 700">{$settings.info_box_deposit_funds_generated}</span>
+											</li>
+                                            <li style="background-color: lightgrey;"><span style="font-size: 18px;color: #353c4e;font-weight: 600">Total Deposited</span></li>
+                                        </ul>
+                                    </div>
+                                </div>
 							</div>
 						</div>
 					</div>
-					<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6">
-						<div class="wpb_wrapper">
-							<div class="mkd-service-table mkd-service-has-icon">
-								<div class="mkd-service-table-icon">
-									<span class="mkd-icon-shortcode circle mkd-icon-small">
-										<i class="mkd-icon-simple-line-icon icon-badge mkd-icon-element" style=""></i>
-										<span class="mkd-background"></span>
-									</span>
-								</div>
-								<div class="mkd-service-table-inner">
-									<div class="mkd-service-titles-holder">
-										<h4>Employment Law</h4>
-										<h5>personal attitude</h5>
-									</div>
-									<div class="mkd-service-table-content">
-										<ul>
-											<li>Criminal Defense</li>
-											<li>Family Disputes</li>
-											<li>Broker Fraud</li>
-											<li>Domestic Violence</li>
-											<li>Medical Malpractice</li>
-											<li>Intellectual Property</li>
-										</ul>
-									</div>
-									<div class="mkd-service-link">
-										<a href="http://libero.mikado-themes.com/our-services/" target="_self">
-											<span> See success rates </span>
-
-											<span class="mkd-service-link-icon arrow_carrot-right_alt2"></span>
-										</a>
-									</div>
-								</div>
-							</div>
-							<div class="vc_empty_space" style="height: 40px">
-								<span class="vc_empty_space_inner"></span>
+					<div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-0 vc_col-md-3 vc_col-sm-offset-0">
+                        <div class="wpb_wrapper">
+                            <div class="mkd-service-table mkd-service-has-icon">
+                                <div class="mkd-service-table-inner">
+                                    <div class="mkd-service-table-content">
+                                        <ul>
+                                            <li style="background-color: lightgrey;">											
+												<span class="mkd-counter-currency" style="font-size: 24px;color: #353c4e;font-weight: 700">{$currency_sign}</span>
+												<span class="mkd-counter zero" style="font-size: 24px;color: #353c4e;font-weight: 700">{$settings.info_box_withdraw_funds_generated}</span>
+											</li>
+                                            <li style="background-color: lightgrey;"><span style="font-size: 18px;color: #353c4e;font-weight: 600">Total Widthrawal</span></li>
+                                        </ul>
+                                    </div>
+                                </div>
 							</div>
 						</div>
 					</div>
-					<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6">
-						<div class="wpb_wrapper">
-							<div class="mkd-service-table mkd-service-has-icon">
-								<div class="mkd-service-table-icon">
-									<span class="mkd-icon-shortcode circle mkd-icon-small">
-										<i class="mkd-icon-simple-line-icon icon-people mkd-icon-element" style=""></i>
-										<span class="mkd-background"></span>
-									</span>
-								</div>
-								<div class="mkd-service-table-inner">
-									<div class="mkd-service-titles-holder">
-										<h4>Foreclosure Defense</h4>
-										<h5>civil rights</h5>
-									</div>
-									<div class="mkd-service-table-content">
-										<ul>
-											<li>Criminal Defense</li>
-											<li>Family Disputes</li>
-											<li>Broker Fraud</li>
-											<li>Domestic Violence</li>
-											<li>Medical Malpractice</li>
-											<li>Intellectual Property</li>
-										</ul>
-									</div>
-									<div class="mkd-service-link">
-										<a href="http://libero.mikado-themes.com/our-services/" target="_self">
-											<span> See success rates </span>
-											<span class="mkd-service-link-icon arrow_carrot-right_alt2"></span>
-										</a>
-									</div>
-								</div>
-							</div>
-							<div class="vc_empty_space" style="height: 40px">
-								<span class="vc_empty_space_inner"></span>
+					<div class="wpb_column vc_column_container vc_col-sm-3 vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-0 vc_col-md-3 vc_col-sm-offset-0">
+                        <div class="wpb_wrapper">
+                            <div class="mkd-service-table mkd-service-has-icon">
+                                <div class="mkd-service-table-inner">
+                                    <div class="mkd-service-table-content">
+                                        <ul>
+                                            <li style="background-color: lightgrey;"><span class="mkd-counter zero" style="font-size: 24px;color: #353c4e;font-weight: 700">{$settings.site_days_online_generated}</span></li>
+                                            <li style="background-color: lightgrey;"><span style="font-size: 18px;color: #353c4e;font-weight: 600">Day Online</span></li>
+                                        </ul>
+                                    </div>
+                                </div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+            <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
+			<div class="clearfix mkd-section-inner">
+                <div class="mkd-section-inner-margin clearfix">
+                    <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-6 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+						<div class="wpb_wrapper">
+							<div class="wpb_text_column wpb_content_element mkd-content-aligment-center">
+								<div class="wpb_wrapper">
+									<h2>Last 5 Deposits</h2>
+								</div>
+							</div>
+						</div>
+                    	<div class="wpb_wrapper">
+                            <table cellspacing="1" cellpadding="2" border="0" width="100%" id="last5">							
+                                <tbody>
+                                	<tr>
+										<td class="inheader-yellow"></td>
+										<td class="inheader-yellow"></td>
+										<td class="inheader-yellow"></td>
+                                	</tr>
+                                	<tr>
+										<td class="inheader-yellow"></td>
+										<td class="inheader-yellow"></td>
+										<td class="inheader-yellow"></td>
+                                	</tr>
+                                	<tr>
+										<td class="inheader-yellow"></td>
+										<td class="inheader-yellow"></td>
+										<td class="inheader-yellow"></td>
+                                	</tr>
+                                	<tr>
+										<td class="inheader-yellow"></td>
+										<td class="inheader-yellow"></td>
+										<td class="inheader-yellow"></td>
+                                	</tr>
+                                	<tr>
+										<td class="inheader-yellow"></td>
+										<td class="inheader-yellow"></td>
+										<td class="inheader-yellow"></td>
+                                	</tr>
+                                </tbody>
+							</table>
+						</div>
+					</div>
+					<div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-offset-0 vc_col-lg-6 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-0">
+						<div class="wpb_wrapper">
+							<div class="wpb_text_column wpb_content_element mkd-content-aligment-center">
+								<div class="wpb_wrapper">
+									<h2>Last 5 Widthdrawal</h2>
+								</div>
+							</div>
+						</div>
+                    	<div class="wpb_wrapper">
+                            <table cellspacing="1" cellpadding="2" border="0" width="100%" id="paidout5">							
+                                <tbody>
+                                	<tr>
+										<td class="inheader-blue"></td>
+										<td class="inheader-blue"></td>
+										<td class="inheader-blue"></td>
+                                	</tr>
+                                	<tr>
+										<td class="inheader-blue"></td>
+										<td class="inheader-blue"></td>
+										<td class="inheader-blue"></td>
+                                	</tr>
+                                	<tr>
+										<td class="inheader-blue"></td>
+										<td class="inheader-blue"></td>
+										<td class="inheader-blue"></td>
+                                	</tr>
+                                	<tr>
+										<td class="inheader-blue"></td>
+										<td class="inheader-blue"></td>
+										<td class="inheader-blue"></td>
+                                	</tr>
+                                	<tr>
+										<td class="inheader-blue"></td>
+										<td class="inheader-blue"></td>
+										<td class="inheader-blue"></td>
+                                	</tr>
+                                </tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+			</div>
+			<script type='text/javascript' src='js/home/last10_paidout.js'></script>
+            <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
+		</div>
 		</div>
 		<div data-mkd-parallax-speed="1" class="vc_row wpb_row vc_row-fluid mkd-section vc_custom_1449058472937 mkd-content-aligment-left mkd-grid-section mkd-video-background" style="">
 			<div class="mkd-mobile-video-image" style="background-image:url(http://libero.mikado-themes.com/wp-content/uploads/2015/12/video-img.jpg);"></div>

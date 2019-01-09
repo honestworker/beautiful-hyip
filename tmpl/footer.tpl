@@ -252,16 +252,7 @@
 <script type='text/javascript' src='wp-includes/js/jquery/ui/position.min.js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/ui/dialog.min.js'></script>
 <script type='text/javascript' src='wp-includes/js/wpdialog.min.js'></script>
-<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
-<script type='text/javascript'>
-    /* <![CDATA[ */
-    var _wpcf7 = {
-        "loaderUrl": "http:\/\/libero.mikado-themes.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif",
-        "sending": "Sending ..."
-    };
-    /* ]]> */
-</script>
-<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
@@ -272,7 +263,6 @@
     /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var wc_cart_fragments_params = {
@@ -282,7 +272,6 @@
     };
     /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/ui/accordion.min.js'></script>
 <script type='text/javascript'>
@@ -310,6 +299,7 @@
     /* ]]> */
 </script>
 <script type='text/javascript' src='wp-includes/js/mediaelement/mediaelement-and-player.min.js'></script>
+
 <script type='text/javascript' src='wp-includes/js/mediaelement/wp-mediaelement.js'></script>
 <script type='text/javascript' src='wp-content/themes/libero/assets/js/third-party.min.js'></script>
 <script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js'></script>
@@ -339,17 +329,11 @@
     /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/themes/libero/assets/js/modules.min.js'></script>
+
 <script type='text/javascript' src='wp-content/themes/libero/assets/js/blog.min.js'></script>
 <script type='text/javascript' src='wp-includes/js/comment-reply.min.js'></script>
 <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/js_composer_front.js'></script>
-<script type='text/javascript'>
-    /* <![CDATA[ */
-    var mkdLike = {
-        "ajaxurl": "http:\/\/libero.mikado-themes.com\/wp-admin\/admin-ajax.php"
-    };
-    /* ]]> */
-</script>
-<script type='text/javascript' src='wp-content/themes/libero/assets/js/like.min.js'></script>
+
 </body>
 
 <!-- Mirrored from libero.mikado-themes.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Oct 2018 21:34:47 GMT -->

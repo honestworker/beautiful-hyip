@@ -424,3 +424,25 @@ table.content-alignment-left td, table th {
     margin: 2px;
     border-radius: 5px;
 }
+
+td.inheader-yellow {
+    background: #c67e1f;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    padding: 5px 3px;
+    color: #fff;
+    height: 38px;
+    border-bottom: 3px solid #14315a;
+}
+
+td.inheader-blue {
+    background: #1f87c6;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    padding: 5px 3px;
+    color: #fff;
+    height: 38px;
+    border-bottom: 3px solid #14315a;
+}
